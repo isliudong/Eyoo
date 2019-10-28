@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="weibo" />
+        <module name="Eyoo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="weibo" target="1.8" />
+      <module name="Eyoo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,6 @@
 
 
-# 基于ssm的仿微博系统
+# 基于ssm的Eyoo
 
 [![Build Status](https://travis-ci.org/yrucrew/ssm-demo.svg?branch=master)](https://travis-ci.org/yrucrew/ssm-demo)
 [![version](https://img.shields.io/badge/version-0.8-red.svg)]() [![License](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/yrucrew/ssm-demo/blob/master/LICENSE)
